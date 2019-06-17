@@ -1,0 +1,44 @@
+{
+  "id": "f9f57bc1-2026-4ac4-8edc-cf0796fd149f",
+  "parentId": "df15e787-35a7-4eff-915a-f916621f2d72",
+  "rootParentId": "bd1e838d-29bf-4c0b-bae9-d827abc06f2c",
+  "name": "meeting_feedback_any_news - yes",
+  "auto": true,
+  "contexts": [
+    "meeting_feedback_any_news-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "meeting_feedback_intent.meeting_feedback_intent-custom.meeting_feedback_any_news-yes",
+      "affectedContexts": [
+        {
+          "name": "go_to_start",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "go_to_end",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "OK, here is the last visit report of London Medical Center, recorded on Thu Feb 21 2019. The meeting took place on Thu Feb 21 2019. Participants were Dr. George Beller, Dr. Andreas Meier. The main topic was about rogalin products, You discussed rogalin. As a result of the meeting, you recorded: it was a brilliant visit he was very interested. You received no information about competitors. The follow-up meeting is on 2019-04-10. What do you want for next ?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531867231,
+  "fallbackIntent": false,
+  "events": []
+}

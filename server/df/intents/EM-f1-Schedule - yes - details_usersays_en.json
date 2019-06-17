@@ -1,0 +1,57 @@
+[
+  {
+    "id": "806ffe93-654d-44a1-84bc-1e1f28766b5c",
+    "data": [
+      {
+        "text": "Tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "alias": "ordinal",
+        "meta": "@sys.ordinal",
+        "userDefined": true
+      },
+      {
+        "text": " meeting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "245a44b6-ba1a-4e52-bce6-723d3ea7e106",
+    "data": [
+      {
+        "text": "Tell me about meeting  at   ",
+        "userDefined": false
+      },
+      {
+        "text": "11am",
+        "alias": "meeting_time",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bf1ccf3f-eaad-4ef0-a0e4-7814d77ffbac",
+    "data": [
+      {
+        "text": "Tell me about meeting  with ",
+        "userDefined": false
+      },
+      {
+        "text": "Maris",
+        "alias": "doctor_name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

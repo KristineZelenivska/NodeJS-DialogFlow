@@ -1,0 +1,86 @@
+{
+  "id": "bd1e838d-29bf-4c0b-bae9-d827abc06f2c",
+  "name": "meeting_feedback_intent",
+  "auto": true,
+  "contexts": [
+    "Pipe_after_meeting_yes"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "meeting_feedback_intent-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "48ac3a8f-590f-42e0-81a5-12706daef12c",
+          "required": false,
+          "dataType": "@Preaper_meeting_answer",
+          "name": "Preaper_meeting_answer",
+          "value": "$Preaper_meeting_answer",
+          "isList": false
+        },
+        {
+          "id": "a6254513-5603-4e76-b635-159a7986557d",
+          "required": true,
+          "dataType": "@topic",
+          "name": "topic",
+          "value": "$topic",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What was the main topic of the meeting?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "8fd67d25-30d6-48fa-86d0-c7464de0b4d2",
+          "required": true,
+          "dataType": "@productNames",
+          "name": "productNames",
+          "value": "$productNames",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What products did you offer or sell?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "17f9a7a8-df28-4f66-b12f-f593b01b2d87",
+          "required": true,
+          "dataType": "@after_meeting_defaut",
+          "name": "after_meeting_defaut",
+          "value": "$after_meeting_defaut",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Have you shared any presentations?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Are there any news from the competition?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

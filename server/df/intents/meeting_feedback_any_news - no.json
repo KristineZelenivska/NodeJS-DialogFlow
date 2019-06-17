@@ -1,0 +1,44 @@
+{
+  "id": "91d64554-69e7-4cd6-8868-ceae979daa2b",
+  "parentId": "df15e787-35a7-4eff-915a-f916621f2d72",
+  "rootParentId": "bd1e838d-29bf-4c0b-bae9-d827abc06f2c",
+  "name": "meeting_feedback_any_news - no",
+  "auto": true,
+  "contexts": [
+    "meeting_feedback_any_news-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "meeting_feedback_intent.meeting_feedback_intent-custom.meeting_feedback_any_news-no",
+      "affectedContexts": [
+        {
+          "name": "go_to_end",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "go_to_start",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "what do you want to for next ?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531859391,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "9c0147c2-333f-4b48-b788-e8f9080ab05c",
+    "data": [
+      {
+        "text": "give me  ",
+        "userDefined": false
+      },
+      {
+        "text": "medicine",
+        "alias": "productNames",
+        "meta": "@productNames",
+        "userDefined": true
+      },
+      {
+        "text": " details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3d87129b-8e15-4f8a-832c-d89e92840e63",
+    "data": [
+      {
+        "text": "The name of products is ",
+        "userDefined": false
+      },
+      {
+        "text": "medicine",
+        "alias": "productNames",
+        "meta": "@productNames",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9e9f9031-bef7-4ef9-84cd-101751394c4b",
+    "data": [
+      {
+        "text": "medicine",
+        "alias": "productNames",
+        "meta": "@productNames",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

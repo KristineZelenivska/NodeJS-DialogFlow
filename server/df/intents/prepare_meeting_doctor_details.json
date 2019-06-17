@@ -1,0 +1,49 @@
+{
+  "id": "9cd58cf3-ba60-4087-a96e-51f9fbcb2d6d",
+  "name": "prepare_meeting_doctor_details",
+  "auto": true,
+  "contexts": [
+    "prepare_doctor_details"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "go_to_end",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "get_product_details",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "3fa0b28e-b931-4866-ac6a-2fc614a66ed5",
+          "required": false,
+          "dataType": "@Preaper_time_key",
+          "name": "Preaper_time_key",
+          "value": "$Preaper_time_key",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Doctor \u003cname \u003e \u003ctext \u003e. Do you want to read product description or quick from system?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

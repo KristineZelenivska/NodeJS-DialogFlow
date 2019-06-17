@@ -1,0 +1,33 @@
+{
+  "id": "327926db-7530-4cfe-bff3-c3caae1a75be",
+  "name": "EditMeeting",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "EditMeeting-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "you have \u003c3\u003emeetings today, \u003caccenture\u003e are in \u003criga\u003e, \u003caccenture\u003e are in \u003chelsinki\u003e. you have an action alerts \u003c...\u003e. do you want to speak about Schedule or alerts."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

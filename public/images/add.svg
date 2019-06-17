@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 53.2 (72643) - https://sketchapp.com -->
+    <title>24B03CD8-90FC-4569-9C90-BA63CCAD67CF</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <circle id="path-1" cx="13" cy="13" r="13"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="meeting-notes_edit-visit-report" transform="translate(-26.000000, -378.000000)">
+            <g id="icon/add-participant" transform="translate(26.000000, 378.000000)">
+                <g id="Group-8-Copy-3">
+                    <polygon id="+" fill="#FF9325" points="16.8235294 13.4894118 13.5053391 13.4894118 13.5053391 16.8235294 12.4946609 16.8235294 12.4946609 13.4894118 9.17647059 13.4894118 9.17647059 12.5105882 12.4946609 12.5105882 12.4946609 9.17647059 13.5053391 9.17647059 13.5053391 12.5105882 16.8235294 12.5105882"></polygon>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <circle stroke="#FF9325" cx="13" cy="13" r="12.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

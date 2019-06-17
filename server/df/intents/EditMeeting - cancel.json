@@ -1,0 +1,39 @@
+{
+  "id": "c787ea37-1c8d-4728-9481-02922c961e22",
+  "parentId": "327926db-7530-4cfe-bff3-c3caae1a75be",
+  "rootParentId": "327926db-7530-4cfe-bff3-c3caae1a75be",
+  "name": "EditMeeting - cancel",
+  "auto": true,
+  "contexts": [
+    "EditMeeting-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "EditMeeting.EditMeeting-custom",
+      "affectedContexts": [
+        {
+          "name": "go_to_end",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "do you want to quick from edit system? yes/ no"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "f0c42120-6222-46a8-a046-16dca4d89f08",
+  "name": "alerts_reachedule_all",
+  "auto": true,
+  "contexts": [
+    "go_to_alert_function"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "call_back_schedule",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "EM-f1-Schedule-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "OK, i scheduled all meeting for today. do you want to return back Schedule page ?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

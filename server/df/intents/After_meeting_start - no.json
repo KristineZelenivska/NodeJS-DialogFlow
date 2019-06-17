@@ -1,0 +1,39 @@
+{
+  "id": "ec73a777-3b22-4eec-a133-ac054c7f7376",
+  "parentId": "d3ebea1d-3b1e-495d-81b6-3d50bdf50a55",
+  "rootParentId": "d3ebea1d-3b1e-495d-81b6-3d50bdf50a55",
+  "name": "After_meeting_start - no",
+  "auto": true,
+  "contexts": [
+    "After_meeting_start-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "After_meeting_start.After_meeting_start-no",
+      "affectedContexts": [
+        {
+          "name": "After_meeting_start-no-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "why?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531859391,
+  "fallbackIntent": false,
+  "events": []
+}

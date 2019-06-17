@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="114px" height="114px" viewBox="0 0 114 114" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 53.2 (72643) - https://sketchapp.com -->
+    <title>025E8A04-CBA7-4EAC-8DB8-7A3575795CF5</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="login" transform="translate(-67.000000, -338.000000)">
+            <g id="components/manual-mode" transform="translate(67.000000, 338.000000)">
+                <rect id="Rectangle" stroke="#FFFFFF" stroke-width="2" x="1" y="1" width="112" height="112" rx="15"></rect>
+                <g id="button/profile/black" transform="translate(27.000000, 17.000000)" fill-rule="evenodd" stroke-width="1">
+                    <g id="PROFILE-Copy" transform="translate(2.057143, 2.057143)">
+                        <g id="Group" transform="translate(11.142857, 33.428571)"></g>
+                        <path d="M28.0195835,12.8277676 C33.0835221,12.8277676 37.2267446,16.9709901 37.2267446,22.0349288 C37.2267446,27.2523201 33.0835221,31.3955426 28.0195835,31.3955426 C22.8021922,31.3955426 18.6589697,27.2523201 18.6589697,22.0349288 C18.6589697,16.9709901 22.8021922,12.8277676 28.0195835,12.8277676 Z" id="Path" fill="#464646"></path>
+                        <path d="M20.96076,33.5438802 L34.9249543,33.5438802 C41.2165144,33.5438802 44.7459262,38.6078188 44.7459262,44.4390208 C35.5387651,53.7996346 20.3469492,53.7996346 11.2932408,44.4390208 C11.2932408,38.6078188 14.6691999,33.5438802 20.96076,33.5438802 Z" id="Path" fill="#464646"></path>
+                        <path d="M27.9428571,55.8857143 C12.5104433,55.8857143 0,43.375271 0,27.9428571 C0,12.5104433 12.5104433,0 27.9428571,0 C43.375271,0 55.8857143,12.5104433 55.8857143,27.9428571 C55.8857143,43.375271 43.375271,55.8857143 27.9428571,55.8857143 Z M27.9428571,54.1714286 C42.4284972,54.1714286 54.1714286,42.4284972 54.1714286,27.9428571 C54.1714286,13.4572171 42.4284972,1.71428571 27.9428571,1.71428571 C13.4572171,1.71428571 1.71428571,13.4572171 1.71428571,27.9428571 C1.71428571,42.4284972 13.4572171,54.1714286 27.9428571,54.1714286 Z" id="Combined-Shape" fill="#464646"></path>
+                    </g>
+                </g>
+                <text id="Manual-Mode" font-family="Verdana" font-size="13" font-weight="normal" fill="#464646">
+                    <tspan x="14.0739746" y="97">Manual Mode</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

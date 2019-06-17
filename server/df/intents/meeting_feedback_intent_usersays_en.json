@@ -1,0 +1,201 @@
+[
+  {
+    "id": "0e428f4b-3fa8-45ca-8a8d-51c819e87a94",
+    "data": [
+      {
+        "text": "not ",
+        "userDefined": false
+      },
+      {
+        "text": "bad",
+        "alias": "Preaper_meeting_answer",
+        "meta": "@Preaper_meeting_answer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4c25bd0f-565b-47dd-bc00-a57780fec0a9",
+    "data": [
+      {
+        "text": "yes",
+        "alias": "after_meeting_defaut",
+        "meta": "@after_meeting_defaut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "65ccc7b5-6a32-45b1-8ef4-d0691a230632",
+    "data": [
+      {
+        "text": "i did offer ",
+        "userDefined": false
+      },
+      {
+        "text": "Rogalin",
+        "alias": "productNames",
+        "meta": "@productNames",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9d1569db-1fb9-4bfe-a570-38149b40d768",
+    "data": [
+      {
+        "text": "The main topic is ",
+        "userDefined": false
+      },
+      {
+        "text": "Cancer Oncology treatments",
+        "alias": "topic",
+        "meta": "@topic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6c1a0f45-768d-4d08-9e66-c8681eba0df3",
+    "data": [
+      {
+        "text": "i think it is ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "alias": "Preaper_meeting_answer",
+        "meta": "@Preaper_meeting_answer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d20be420-8987-400b-859a-fdcdd9650c30",
+    "data": [
+      {
+        "text": "i like it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cddc8ca8-aa5e-4251-9ea4-d1bcbb8071a1",
+    "data": [
+      {
+        "text": "i think topic is ",
+        "userDefined": false
+      },
+      {
+        "text": "Cancer Oncology treatments",
+        "alias": "topic",
+        "meta": "@topic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f99fddd1-f213-4df9-bd7b-d4664ccb348c",
+    "data": [
+      {
+        "text": "good",
+        "alias": "Preaper_meeting_answer",
+        "meta": "@Preaper_meeting_answer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ad993f63-1aa7-4836-9a50-c59dc9a012c3",
+    "data": [
+      {
+        "text": "well, ",
+        "userDefined": false
+      },
+      {
+        "text": "Rogalin",
+        "alias": "productNames",
+        "meta": "@productNames",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d20596d6-1c74-40c1-8efe-059d67a502d4",
+    "data": [
+      {
+        "text": "yes",
+        "alias": "after_meeting_defaut",
+        "meta": "@after_meeting_defaut",
+        "userDefined": false
+      },
+      {
+        "text": ", i shared presentation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f830442b-b673-40e2-958b-22691a5108cc",
+    "data": [
+      {
+        "text": "i was not ",
+        "userDefined": false
+      },
+      {
+        "text": "bad",
+        "alias": "Preaper_meeting_answer",
+        "meta": "@Preaper_meeting_answer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7a565011-9f59-4c0b-ac3d-fc493a4a61fe",
+    "data": [
+      {
+        "text": "Rogalin",
+        "alias": "productNames",
+        "meta": "@productNames",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "05382bfe-b858-46e1-aafb-2c35e7416309",
+    "data": [
+      {
+        "text": "Cancer Oncology treatments",
+        "alias": "topic",
+        "meta": "@topic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

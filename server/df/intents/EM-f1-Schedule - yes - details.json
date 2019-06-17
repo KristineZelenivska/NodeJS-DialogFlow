@@ -1,0 +1,73 @@
+{
+  "id": "a66169c7-03c5-428e-852c-a4c053de3380",
+  "parentId": "a3dad4b9-2dda-4e04-9af7-e6e2ddf48f0c",
+  "rootParentId": "327926db-7530-4cfe-bff3-c3caae1a75be",
+  "name": "EM-f1-Schedule - yes - details",
+  "auto": true,
+  "contexts": [
+    "EM-f1-Schedule-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "EditMeeting.EditMeeting-custom.EM-f1-Schedule-yes.EM-f1-Schedule-yes-custom",
+      "affectedContexts": [
+        {
+          "name": "ask_product_details",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "ask_doctor_details",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6e201c67-4d87-459b-9f0a-e0d55b082ae9",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "name": "doctor_name",
+          "value": "$doctor_name",
+          "isList": true
+        },
+        {
+          "id": "e44a6c45-675b-47db-8f49-5e5cade2d2a8",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "meeting_time",
+          "value": "$meeting_time",
+          "isList": true
+        },
+        {
+          "id": "4ff1f28f-a296-4378-b675-f0fb80ae25f0",
+          "required": false,
+          "dataType": "@sys.ordinal",
+          "name": "ordinal",
+          "value": "$ordinal",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "you meeting is doctor\u003cname\u003e at time $meeting_time We can continue with  doctor profile , product description.",
+            "you meeting is doctor $doctor_name We can continue with  doctor profile , product description.",
+            "The $ordinal meeting is doctor .We can continue with  doctor profile , product description."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

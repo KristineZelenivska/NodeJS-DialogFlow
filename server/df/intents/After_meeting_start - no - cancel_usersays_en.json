@@ -1,0 +1,57 @@
+[
+  {
+    "id": "a42554ef-c7bf-4935-a9ec-db8e95182d39",
+    "data": [
+      {
+        "text": "cancel meeting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4983cef2-ed84-418e-b2d9-603d48407ee8",
+    "data": [
+      {
+        "text": "meeting cancel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1dd42a7e-5c96-4bdd-8bea-fdcc949423a3",
+    "data": [
+      {
+        "text": "Meeting get canceled",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7216c526-87ab-466d-a739-ab684f48ebe4",
+    "data": [
+      {
+        "text": "Meeting did not take place",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "83099b52-97c7-4455-9c0e-5b0f10ff7793",
+    "data": [
+      {
+        "text": "canceled meeting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

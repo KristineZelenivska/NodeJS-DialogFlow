@@ -1,0 +1,39 @@
+{
+  "id": "4dd44592-4f47-4590-8365-75b899b1fb05",
+  "parentId": "327926db-7530-4cfe-bff3-c3caae1a75be",
+  "rootParentId": "327926db-7530-4cfe-bff3-c3caae1a75be",
+  "name": "EditMeeting - Alert",
+  "auto": true,
+  "contexts": [
+    "EditMeeting-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "EditMeeting.EditMeeting-custom",
+      "affectedContexts": [
+        {
+          "name": "go_to_alert_function",
+          "parameters": {},
+          "lifespan": 10
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Here is alerts list: First alert is \u003ctext\u003e. Do you want me to ignore alerts and go to schedule or reschedule all or schedule particular alert?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

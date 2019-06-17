@@ -1,0 +1,29 @@
+{
+  "id": "3a813216-22c1-48a0-ae91-566540a9533b",
+  "name": "EndofConversation",
+  "auto": true,
+  "contexts": [
+    "go_to_end"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Have a good day !  talk to you later"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,459 @@
+[
+    {
+        "id": 1,
+        "isCanceled": false,
+        "eventDate": "2019-04-12",
+        "eventTime": "10:00",
+        "eventType": "meeting",
+        "type": "F2F",
+        "priority": "Primary",
+        "eventTopic": "Penicilin",
+        "profName": "EARTHA DE",
+        "salesRep": "REP1",
+        "eventAttendees": 1,
+        "report": {
+            "meetingPlace": "London Medical Centre",
+            "meetingDate": "2019-04-12",
+            "topic": "Cancer Oncology treatments",
+            "productOffered": "Vitamin C",
+            "result": "Good",
+            "competition": "No",
+            "presentation": "Yes",
+            "followUpMeetingSchedueled": "Yes",
+            "followUpMeeting": "2019-04-15"
+        },
+        "eventAddress": {
+            "street": "224 Harley St",
+            "county": "Marylebone",
+            "city": "London W1G 7LD"
+        },
+        "eventLocation": "London Medical Centre",
+        "doctorName": "Dr.George A.Beller",
+        "kpi": "+0.8% Rx",
+        "startDate": "2019-04-12",
+        "endDate": "2019-04-12",
+        "startTime": "12:35",
+        "endTime": "13:10",
+        "eventDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem eveniet aliquam  ",
+        "eventParticipants": [
+            {
+                "image": "/images/doctor1.png",
+                "name": "Doctor George",
+                "workplace": "London Medical Centre",
+                "address": {
+                    "street": "224 Harley St",
+                    "county": "Marylebone",
+                    "city": "London W1G 7LD"
+                },
+                "email": "beller@london-med.com",
+                "phone": "+49761495476",
+                "lastVisit": "01.02.2019",
+                "nextVisit": "01.05.2019"
+            },
+            {
+                "image": "/images/doctor2.png",
+                "name": "Doctor Stewe",
+                "workplace": "Birmingham Medical Centre",
+                "address": {
+                    "street": "42 Motor St",
+                    "county": "Hyde park",
+                    "city": "Birmingham W1G 7LD"
+                },
+                "email": "lorem1@lorem1.com",
+                "phone": "+49761495476",
+                "lastVisit": "02.03.2019",
+                "nextVisit": "23.06.2019"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "isCanceled": false,
+        "eventDate": "2019-04-12",
+        "eventTime": "14:00",
+        "eventType": "meeting",
+        "type": "F2F",
+        "priority": "Primary",
+        "eventTopic": "Penicilin",
+        "profName": "SIGMUND BUCKBY",
+        "salesRep": "REP1",
+        "eventAttendees": 1,
+        "report": {
+            "meetingPlace": "Birmingham Medical Centre",
+            "meetingDate": "2019-04-12",
+            "topic": "Cancer Oncology treatments",
+            "productOffered": "Vitamin C",
+            "result": "OK",
+            "competition": "No",
+            "presentation": "Yes",
+            "followUpMeetingSchedueled": "Yes",
+            "followUpMeeting": "2019-04-17"
+        },
+        "eventLocation": "Birmingham Medical Centre",
+        "doctorName": "Dr.Stewe C.Clark",
+        "kpi": "+0.8% Rx",
+        "eventAddress": {
+            "street": "224 Harley St",
+            "county": "Marylebone",
+            "city": "Birmingham W1G 7LD"
+        },
+        "startDate": "2019-04-12",
+        "endDate": "2019-04-12",
+        "startTime": "14:30",
+        "endTime": "16:30",
+        "eventDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem eveniet aliquam  ",
+        "eventParticipants": [
+            {
+                "image": "/images/doctor2.png",
+                "name": "Doctor Stewe",
+                "workplace": "Birmingham Medical Centre",
+                "address": {
+                    "street": "42 Motor St",
+                    "county": "Hyde park",
+                    "city": "Birmingham W1G 7LD"
+                },
+                "email": "lorem1@lorem1.com",
+                "phone": "+49761495476",
+                "lastVisit": "02.03.2019",
+                "nextVisit": "23.06.2019"
+            },
+            {
+                "image": "/images/doctor1.png",
+                "name": "Doctor George",
+                "workplace": "London Medical Centre",
+                "address": {
+                    "street": "224 Harley St",
+                    "county": "Marylebone",
+                    "city": "London W1G 7LD"
+                },
+                "email": "beller@london-med.com",
+                "phone": "+49761495476",
+                "lastVisit": "01.02.2019",
+                "nextVisit": "01.05.2019"
+            },
+            {
+                "image": "/images/doctor3.png",
+                "name": "Doctor John",
+                "workplace": "London Medical Centre",
+                "address": {
+                    "street": "224 Harley St",
+                    "county": "Marylebone",
+                    "city": "London W1G 7LD"
+                },
+                "email": "lorem2@lorem2.com",
+                "phone": "+49761495476",
+                "lastVisit": "01.02.2019",
+                "nextVisit": "01.05.2019"
+            },
+            {
+                "image": "/images/doctor4.png",
+                "name": "Doctor Gerard",
+                "workplace": "Birmingham Medical Centre",
+                "address": {
+                    "street": "42 Motor St",
+                    "county": "Hyde park",
+                    "city": "Birmingham W1G 7LD"
+                },
+                "email": "lorem3@lorem3.com",
+                "phone": "+49761495476",
+                "lastVisit": "02.03.2019",
+                "nextVisit": "23.06.2019"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "isCanceled": false,
+        "eventDate": "2019-04-13",
+        "eventTime": "10:00",
+        "eventType": "meeting",
+        "type": "F2F",
+        "priority": "Primary",
+        "eventTopic": "Penicilin",
+        "profName": "EARTHA DE",
+        "salesRep": "REP1",
+        "eventAttendees": 1,
+        "report": {
+            "meetingPlace": "London Medical Centre",
+            "meetingDate": "2019-04-13",
+            "topic": "Cancer Oncology treatments",
+            "productOffered": "Vitamin C",
+            "result": "Good",
+            "competition": "No",
+            "presentation": "Yes",
+            "followUpMeetingSchedueled": "Yes",
+            "followUpMeeting": "2019-04-16"
+        },
+        "eventAddress": {
+            "street": "224 Harley St",
+            "county": "Marylebone",
+            "city": "London W1G 7LD"
+        },
+        "eventLocation": "London Medical Centre",
+        "doctorName": "Dr.Gerard Buttler",
+        "kpi": "+0.8% Rx",
+        "startDate": "2019-04-13",
+        "endDate": "2019-04-13",
+        "startTime": "12:35",
+        "endTime": "13:10",
+        "eventDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem eveniet aliquam  ",
+        "eventParticipants": [
+            {
+                "image": "/images/doctor3.png",
+                "name": "Doctor George",
+                "workplace": "London Medical Centre",
+                "address": {
+                    "street": "224 Harley St",
+                    "county": "Marylebone",
+                    "city": "London W1G 7LD"
+                },
+                "email": "beller@london-med.com",
+                "phone": "+49761495476",
+                "lastVisit": "01.02.2019",
+                "nextVisit": "01.05.2019"
+            },
+            {
+                "image": "/images/doctor2.png",
+                "name": "Doctor Stewe",
+                "workplace": "Birmingham Medical Centre",
+                "address": {
+                    "street": "42 Motor St",
+                    "county": "Hyde park",
+                    "city": "Birmingham W1G 7LD"
+                },
+                "email": "lorem1@lorem1.com",
+                "phone": "+49761495476",
+                "lastVisit": "02.03.2019",
+                "nextVisit": "23.06.2019"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "isCanceled": true,
+        "eventDate": "2019-04-18",
+        "eventTime": "14:00",
+        "eventType": "Round Table About Vitamins",
+        "type": "meeting",
+        "priority": "Primary",
+        "eventTopic": "Penicilin",
+        "profName": "EARTHA DE",
+        "salesRep": "REP1",
+        "eventAttendees": 1,
+        "report": {
+            "meetingPlace": "London hospital",
+            "meetingDate": "2019-04-04",
+            "topic": "Cancer Oncology treatments",
+            "productOffered": "Vitamin C",
+            "result": "Good",
+            "competition": "No",
+            "presentation": "Yes",
+            "followUpMeetingSchedueled": "Yes",
+            "followUpMeeting": "Friday, 24th March 2019"
+        },
+        "eventLocation": "",
+        "doctorName": "",
+        "kpi": "",
+        "eventAddress": {
+            "street": "",
+            "county": "",
+            "city": "New York"
+        },
+        "startDate": "",
+        "endDate": "",
+        "startTime": "",
+        "endTime": "",
+        "eventDescription": "",
+        "eventParticipants": []
+    },
+    {
+        "id": 5,
+        "isCanceled": true,
+        "eventDate": "2019-04-16",
+        "eventTime": "16:00",
+        "eventType": "call",
+        "type": "call",
+        "priority": "Primary",
+        "eventTopic": "Penicilin",
+        "profName": "",
+        "salesRep": "",
+        "eventAttendees": 1,
+        "report": {
+            "meetingPlace": "London hospital",
+            "meetingDate": "2019-04-04",
+            "topic": "Cancer Oncology treatments",
+            "productOffered": "Vitamin C",
+            "result": "Good",
+            "competition": "No",
+            "presentation": "Yes",
+            "followUpMeetingSchedueled": "Yes",
+            "followUpMeeting": "Friday, 24th March 2019"
+        },
+        "eventLocation": "",
+        "doctorName": "",
+        "kpi": "",
+        "eventAddress": {
+            "street": "",
+            "county": "",
+            "city": ""
+        },
+        "startDate": "",
+        "endDate": "",
+        "startTime": "",
+        "endTime": "",
+        "eventDescription": "",
+        "eventParticipants": []
+    },
+    {
+        "id": 6,
+        "isCanceled": true,
+        "eventDate": "2019-04-17",
+        "eventTime": "17:00",
+        "eventType": "call",
+        "type": "call",
+        "priority": "Primary",
+        "eventTopic": "Vitamin C",
+        "profName": "",
+        "salesRep": "",
+        "eventAttendees": 2,
+        "report": {
+            "meetingPlace": "London hospital",
+            "meetingDate": "2019-04-04",
+            "topic": "Cancer Oncology treatments",
+            "productOffered": "Vitamin C",
+            "result": "Good",
+            "competition": "No",
+            "presentation": "Yes",
+            "followUpMeetingSchedueled": "Yes",
+            "followUpMeeting": "Friday, 24th March 2019"
+        },
+        "eventLocation": "",
+        "doctorName": "",
+        "kpi": "",
+        "eventAddress": {
+            "street": "",
+            "county": "",
+            "city": "Somewhere"
+        },
+        "startDate": "",
+        "endDate": "",
+        "startTime": "",
+        "endTime": "",
+        "eventDescription": "",
+        "eventParticipants": []
+    },
+    {
+        "id": 7,
+        "isCanceled": true,
+        "eventDate": "2019-04-18",
+        "eventTime": "16:00",
+        "eventType": "meeting",
+        "type": "F2F",
+        "priority": "Primary",
+        "eventTopic": "Penicilin",
+        "profName": "GILLIGAN BURCHMORE",
+        "salesRep": "REP1",
+        "eventAttendees": 2,
+        "report": {
+            "meetingPlace": "London hospital",
+            "meetingDate": "2019-04-04",
+            "topic": "Cancer Oncology treatments",
+            "productOffered": "Vitamin C",
+            "result": "Good",
+            "competition": "No",
+            "presentation": "Yes",
+            "followUpMeetingSchedueled": "Yes",
+            "followUpMeeting": "Friday, 24th March 2019"
+        },
+        "eventLocation": "",
+        "doctorName": "",
+        "kpi": "",
+        "eventAddress": {
+            "street": "",
+            "county": "",
+            "city": "Riga"
+        },
+        "startDate": "",
+        "endDate": "",
+        "startTime": "",
+        "endTime": "",
+        "eventDescription": "",
+        "eventParticipants": []
+    },
+    {
+        "id": 8,
+        "isCanceled": true,
+        "eventDate": "2019-04-19",
+        "eventTime": "15:00",
+        "eventType": "meeting",
+        "type": "F2F",
+        "priority": "Primary",
+        "eventTopic": "Penicilin",
+        "profName": "FERNANDINA TALL",
+        "salesRep": "REP1",
+        "eventAttendees": 2,
+        "report": {
+            "meetingPlace": "London hospital",
+            "meetingDate": "2019-04-04",
+            "topic": "Cancer Oncology treatments",
+            "productOffered": "Vitamin C",
+            "result": "Good",
+            "competition": "No",
+            "presentation": "Yes",
+            "followUpMeetingSchedueled": "Yes",
+            "followUpMeeting": "Friday, 24th March 2019"
+        },
+        "eventLocation": "",
+        "doctorName": "",
+        "kpi": "",
+        "eventAddress": {
+            "street": "",
+            "county": "",
+            "city": "Oxford"
+        },
+        "startDate": "",
+        "endDate": "",
+        "startTime": "",
+        "endTime": "",
+        "eventDescription": "",
+        "eventParticipants": []
+    },
+    {
+        "id": 9,
+        "isCanceled": true,
+        "eventDate": "2019-04-18",
+        "eventTime": "13:00",
+        "eventType": "meeting",
+        "type": "F2F",
+        "priority": "Primary",
+        "eventTopic": "Penicilin",
+        "profName": "KATHA CORNILLOT",
+        "salesRep": "REP1",
+        "eventAttendees": 2,
+        "report": {
+            "meetingPlace": "London hospital",
+            "meetingDate": "2019-04-04",
+            "topic": "Cancer Oncology treatments",
+            "productOffered": "Vitamin C",
+            "result": "Good",
+            "competition": "No",
+            "presentation": "Yes",
+            "followUpMeetingSchedueled": "Yes",
+            "followUpMeeting": "Friday, 24th March 2019"
+        },
+        "eventLocation": "",
+        "doctorName": "",
+        "kpi": "",
+        "eventAddress": {
+            "street": "",
+            "county": "",
+            "city": "Oxford"
+        },
+        "startDate": "",
+        "endDate": "",
+        "startTime": "",
+        "endTime": "",
+        "eventDescription": "",
+        "eventParticipants": []
+    }
+]

@@ -1,0 +1,35 @@
+{
+  "id": "b5b97a46-1302-4138-b235-fbedd81db6fa",
+  "name": "alerts_ignore",
+  "auto": true,
+  "contexts": [
+    "go_to_alert_function"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "call_back_schedule",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "do you want to go to schedule?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

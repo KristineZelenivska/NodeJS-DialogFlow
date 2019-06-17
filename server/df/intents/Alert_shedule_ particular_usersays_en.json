@@ -1,0 +1,46 @@
+[
+  {
+    "id": "0bae6a41-7cc6-4a2c-8f45-7c2798b404b1",
+    "data": [
+      {
+        "text": "Schedule with doctor ",
+        "userDefined": false
+      },
+      {
+        "text": "John",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0afdd8cc-6b49-4197-90ac-540434e5c3de",
+    "data": [
+      {
+        "text": "Schedule ",
+        "userDefined": false
+      },
+      {
+        "text": "number",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "number",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

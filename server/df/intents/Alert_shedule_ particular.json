@@ -1,0 +1,68 @@
+{
+  "id": "d133825e-b8bb-4da9-a0b6-3fed5882aade",
+  "name": "Alert_shedule_ particular",
+  "auto": true,
+  "contexts": [
+    "go_to_alert_function"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "call_back_schedule",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "go_to_alert_function",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "bc26402a-b3d4-49a0-a7ed-0f0a001d59fe",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        },
+        {
+          "id": "5fff0bf3-089b-4ed3-8fd0-32526260c7d4",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number1",
+          "value": "$number1",
+          "isList": false
+        },
+        {
+          "id": "c3290783-b382-4e6b-85e9-9ded0cf5db12",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "OK, i scheduled meetings $any! Do you want to hear remaining alerts or go to schedule?",
+            "OK, i scheduled meetings $number1 with $number Do you want to hear remaining alerts or go to schedule?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

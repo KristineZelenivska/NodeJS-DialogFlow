@@ -1,0 +1,39 @@
+{
+    "response": {
+        "outputText": {
+            "text": [
+                "Total Sales is $10,078,819 for last year"
+            ]
+        },
+        "attachment": {
+            "content": {
+                "type": "image/png",
+                "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIA..."
+            },
+            "text": "I have prepared a chart of Total Sales by Month Year (Last Year) that could be useful to you.<br>Open it up - <a href='https://qliksensedemo.crunchbot.ai/single?appid=93d18ecb-df00-495b-ae58-57db76191db7&obj=BotChart-jsuthar-20190423-UserChart-201804240332295375&opt=currsel&bookmark=BotChart-jsuthar-20190423_201804240332295532'  target='blank'><b>Total Sales by Month Year (Last Year)</b></a></p></div>Source - <a target='blank' href = 'https://qliksensedemo.crunchbot.ai/sense/app/93d19ecb-df00-495b-ae58-57db67191db7'/><b>Retail Convenience</b></a></p>"
+        },
+        "insight": {
+            "text": "<ul><li>Total Sales is <b>$10,078,819.1</b> across 12 months.</li><li>An average of Total Sales across the given range is <b>$839,901.59</b>, with lowest value of $449,277.65 (Sep-2018) and highest value of $1,155,224.85 (Jul-2018) resulting in a difference of $705,947.2.</li><li>Overall, Total Sales <span style='color:#ff0000'>decreased by 55.73%</span> over the span of series from $1,056,978.6 to $467,872.95. It was ended on <span style='color:#ff0000'>negative note, decreasing by $30,899.05</span> from Oct-2018 to Dec-2018.</li><li>The maximum reduction on percentage basis was observed in Sep-2018 which is 59.35% compared to the previous month.<br></li></ul>"
+
+        },
+        "quickReplies": [
+            {
+                "text": "You may also be interested in:",
+                "buttons": [
+                    {
+                        "title": "YoY",
+                        "payload": "Getting information for YoY comparison"
+                    },
+                    {
+                        "title": "QoQ",
+                        "payload": "Getting information for QoQ comparison"
+                    },
+                    {
+                        "title": "MoM",
+                        "payload": "Getting information for MoM comparison"
+                    }
+                ]
+            }
+        ]
+    }
+}

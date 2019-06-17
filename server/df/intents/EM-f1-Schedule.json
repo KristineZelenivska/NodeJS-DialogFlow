@@ -1,0 +1,39 @@
+{
+  "id": "81a4a6b4-e310-4741-b96c-802d48d856da",
+  "parentId": "327926db-7530-4cfe-bff3-c3caae1a75be",
+  "rootParentId": "327926db-7530-4cfe-bff3-c3caae1a75be",
+  "name": "EM-f1-Schedule",
+  "auto": true,
+  "contexts": [
+    "EditMeeting-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "EditMeeting.EditMeeting-custom",
+      "affectedContexts": [
+        {
+          "name": "EM-f1-Schedule-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Today/tomorrow you have a meetings with doctor \u003c?\u003e \u003c?\u003e. Do you want to hear more about particular meetings?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,47 @@
+{
+  "id": "ae64dae1-ac39-4d5a-b8be-032327cd39d8",
+  "name": "Preaper_meeting",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ask_product_details",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "prepare_doctor_details",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "706e8b44-ae1b-4137-bd36-aa108864b807",
+          "required": false,
+          "dataType": "@Preaper_time_key",
+          "name": "Preaper_time_key",
+          "value": "$Preaper_time_key",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Your next visit will be in \u003cHPC NAME \u003e \u003cLOCATION\u003e with \u003c\u003e. Dr \u003cname \u003e is \u003ctext\u003e at \u003c date\u003e. Your visit target is to discuss \u003cproduct_name\u003e. You have visited him \u003cnumber\u003e days ago. We can continue with doctor profile, product description for prepare next meeting."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

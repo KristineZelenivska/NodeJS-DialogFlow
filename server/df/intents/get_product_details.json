@@ -1,0 +1,54 @@
+{
+  "id": "1c547390-7608-45f5-8581-38bb2e047446",
+  "name": "get_product_details",
+  "auto": true,
+  "contexts": [
+    "get_product_details"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ask_product_details",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "prepare_doctor_details",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "EditMeeting-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f99792db-9aca-4ed9-a16a-339900e7caaa",
+          "required": false,
+          "dataType": "@productNames",
+          "name": "productNames",
+          "value": "$productNames",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "$productNames is/ Do you want me to read another product description or return to schedule?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

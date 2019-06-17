@@ -1,0 +1,68 @@
+[
+  {
+    "id": "55a8a1e9-6de5-4801-a121-0672ef684927",
+    "data": [
+      {
+        "text": "i want to ignore schedule",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "49d64af9-e61e-4fca-84e1-049f29538316",
+    "data": [
+      {
+        "text": "schedule",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2
+  },
+  {
+    "id": "3aaa3f27-7f16-4182-be17-5f5e2adc3dbe",
+    "data": [
+      {
+        "text": "ignore schedule",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c3e3685a-b5c6-4755-b513-8185c26d1254",
+    "data": [
+      {
+        "text": "i want to ignore it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2aa3f854-eef9-46f4-85c5-5836f10a4822",
+    "data": [
+      {
+        "text": "ignore please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8b3af7d7-7358-47b3-8356-ff4da9970843",
+    "data": [
+      {
+        "text": "Ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

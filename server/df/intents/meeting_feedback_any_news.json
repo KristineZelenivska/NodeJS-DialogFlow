@@ -1,0 +1,48 @@
+{
+  "id": "df15e787-35a7-4eff-915a-f916621f2d72",
+  "parentId": "bd1e838d-29bf-4c0b-bae9-d827abc06f2c",
+  "rootParentId": "bd1e838d-29bf-4c0b-bae9-d827abc06f2c",
+  "name": "meeting_feedback_any_news",
+  "auto": true,
+  "contexts": [
+    "meeting_feedback_intent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "meeting_feedback_intent.meeting_feedback_intent-custom",
+      "affectedContexts": [
+        {
+          "name": "meeting_feedback_any_news-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f6039bcd-d42b-4cb6-adce-92811608f5ba",
+          "required": false,
+          "dataType": "@after_meeting_defaut",
+          "name": "after_meeting_defaut",
+          "value": "$after_meeting_defaut",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Do you want to create a follow-up meeting?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

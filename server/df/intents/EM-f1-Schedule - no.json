@@ -1,0 +1,39 @@
+{
+  "id": "f05f7025-aaaf-4bcd-b3e9-c50d7ae089b7",
+  "parentId": "81a4a6b4-e310-4741-b96c-802d48d856da",
+  "rootParentId": "327926db-7530-4cfe-bff3-c3caae1a75be",
+  "name": "EM-f1-Schedule - no",
+  "auto": true,
+  "contexts": [
+    "EM-f1-Schedule-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "EditMeeting.EditMeeting-custom.EM-f1-Schedule-no",
+      "affectedContexts": [
+        {
+          "name": "go_to_end",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "do you want to continue check more details ?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531859391,
+  "fallbackIntent": false,
+  "events": []
+}

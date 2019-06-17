@@ -1,0 +1,29 @@
+{
+  "id": "122dda6f-fba1-4f30-9fd5-6dbf77335c70",
+  "name": "Scenario-channel",
+  "auto": true,
+  "contexts": [
+    "go_to_start"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "yes, you are able to check what is  the next  meeting, continue create visit report or check whole schedule!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "value": "fine",
+    "synonyms": [
+      "fine",
+      "Fine",
+      "FINE"
+    ]
+  },
+  {
+    "value": "bad",
+    "synonyms": [
+      "bad",
+      "Bad"
+    ]
+  },
+  {
+    "value": "good",
+    "synonyms": [
+      "good",
+      "Good"
+    ]
+  },
+  {
+    "value": "oK",
+    "synonyms": [
+      "oK",
+      "ok",
+      "OK"
+    ]
+  }
+]

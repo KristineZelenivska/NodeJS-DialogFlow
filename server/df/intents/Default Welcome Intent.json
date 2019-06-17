@@ -1,0 +1,39 @@
+{
+  "id": "d41d2424-3cc8-4a63-95fe-88a41fbb22c3",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "welcome",
+      "affectedContexts": [
+        {
+          "name": "currentcustomer",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hi Dirk! Here is Mark again - your digital Sales Assistant! I have noticed, the next meeting will be at London Medical Center and I have set your context customer accordingly. How else can I help?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1549468730,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "f3656db9-7d46-4f13-8d77-990ce1ea3c93",
+  "name": "ask_doctor_detail",
+  "auto": true,
+  "contexts": [
+    "ask_doctor_details"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "get_product_details",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "call_back_schedule",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "doctor name is \u003c\u003e, do you want to read product description or return to schedule?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

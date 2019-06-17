@@ -1,0 +1,28 @@
+[
+  {
+    "id": "f18775d2-423e-44ad-ad41-b766740f0eb6",
+    "data": [
+      {
+        "text": "yes",
+        "alias": "after_meeting_defaut",
+        "meta": "@after_meeting_defaut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "564f16b5-2b42-4ba0-9d4c-c80e37692bd9",
+    "data": [
+      {
+        "text": "no",
+        "alias": "after_meeting_defaut",
+        "meta": "@after_meeting_defaut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

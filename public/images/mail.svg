@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="8px" viewBox="0 0 11 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 53.2 (72643) - https://sketchapp.com -->
+    <title>9FD625D4-50CF-4CE4-A09F-ED8E693195E3</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="card-doctor" transform="translate(-25.000000, -126.000000)" fill="#464646">
+            <g id="icon/mail" transform="translate(25.000000, 126.000000)">
+                <g id="MAIL">
+                    <polygon id="Path" points="11 6.89795918 11 1.63265306 8.13214286 4"></polygon>
+                    <path d="M0,0.857142857 L4.95,4.81632653 C5.30357143,5.10204082 5.81428571,5.10204082 6.16785714,4.81632653 L11,0.857142857 C11,0.408163265 10.8035714,0 10.2928571,0 L0.707142857,0 C0.235714286,0 0,0.408163265 0,0.857142857 Z" id="Path"></path>
+                    <path d="M3.45714286,4.36734694 L0.117857143,7.63265306 C0.275,7.83673469 0.432142857,8 0.707142857,8 L10.2928571,8 C10.5678571,8 10.725,7.83673469 10.8821429,7.63265306 L7.66071429,4.36734694 L6.52142857,5.30612245 C5.97142857,5.75510204 5.14642857,5.75510204 4.59642857,5.30612245 L3.45714286,4.36734694 Z" id="Path"></path>
+                    <polygon id="Path" points="0 1.63265306 0 6.89795918 2.98571429 4"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
